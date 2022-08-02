@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "2b721c76a5b8f6bd",
@@ -128,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9ba86df72ab03afa",
+  "active": "0635c340b1bbcf6f",
   "lastOpenFiles": [
     "1.2 Что такое Git. Введение.md",
     "1.1. Введение в системы контроля версий.md",

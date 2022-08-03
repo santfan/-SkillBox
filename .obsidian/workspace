@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "6b9d4a8b3510ce85",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba86df72ab03afa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.1 Основы Git - Создание репозитория.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8ebdc9ce1ca22e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7efe8c4a7255bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0635c340b1bbcf6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb31b222aaf9b728",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d477fa45c17263ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2b721c76a5b8f6bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c696215f25f05e0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd57788292d7fd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.1 Основы Git - Создание репозитория.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38782b86feff532d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.1 Основы Git - Создание репозитория.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93f37338035b8b5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71ccb821659fa395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.1 Основы Git - Создание репозитория.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0635c340b1bbcf6f",
+  "lastOpenFiles": [
+    "1.2 Что такое Git. Введение.md",
+    "1.1. Введение в системы контроля версий.md",
+    "Локальные системы.md",
+    "Распределенные системы контроля версий.md",
+    "Централизованне системы хранения.md",
+    "Pasted image 20220801133401.png",
+    "Pasted image 20220801132044.png",
+    "Pasted image 20220801125543.png",
+    "Диаграмма распределённого контроля версий.md",
+    "README.md"
+  ]
+}
